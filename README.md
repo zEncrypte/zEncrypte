@@ -5,3 +5,5 @@
   Bypassers Gang
   <br>
 </h1>
+
+<p align="center">It is a community of minecraft cheaters, rewards, events and much more.</p>
